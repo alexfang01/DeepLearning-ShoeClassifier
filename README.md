@@ -31,3 +31,10 @@ The dataset is organized as follows:
 1.  Clone the main script
 2.  Downlaod dataset from (https://www.kaggle.com/datasets/noobyogi0100/shoe-dataset?select=shoeTypeClassifierDataset) and unzip it
 3.  Run the script and see the output
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/298b470f-5ffc-4157-8927-88c55ebe1633)
+![image](https://github.com/user-attachments/assets/29debdd2-ba16-4772-8b04-ad502e9d7030)
+![image](https://github.com/user-attachments/assets/65d7ce86-ef21-49e9-ae5b-28853270d001)
+
+
